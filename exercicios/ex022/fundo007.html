@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento Vertical</title>
+    <style>
+        #container { /*Seleciona a seção */
+            background-image: url(imagens/target001.png); /*colocou uma imagem de fundo */
+            background-size: 100% 100%; /*fica 100% na tela */
+            position: relative; /*Quem esta por fora tem o posicionamento*/
+            height: 500px; /*Altua */
+            padding: 10px;
+            background-color: purple; /*Cor de fundo*/
+        }
+
+        #conteudo { /*Seleciona o artigo*/
+            background-image: url(imagens/target001.png); /*colocou uma imagem de fundo */
+            background-size: 100% 100%; /*fica 100% na tela */
+            position: absolute; /*Quem esta por dentro tem o posicionamento */
+            height: 200px; /*Altura*/
+            width: 400px; /*Largura*/
+            background-color: yellow; /*Cor de fundo*/
+
+            left: 50%; /*Relação a esquerda*/
+            top: 50%; /*Relação ao topo */
+            
+            transform: translate(-50%, -50%); /*Centralização vertical e horizontal do conteudo*/
+
+        }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
+    
+</body>
+</html>
