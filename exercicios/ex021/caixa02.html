@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Tags de agrupamento  -->
+    <title>Grouping Tags</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif, monospace;
+            background-color: rgb(196, 174, 174);
+        }
+        header { /*Cabeçalho do site*/
+            background-color: white;
+            padding: 10px; /*preenchimento interno*/
+            margin: 10px;
+        }
+        h1 {
+            box-shadow: inset 1px 1px 12px 6px rgba(0, 0, 0, 0.527); /*/sombras internas */
+            text-align: center;
+        }
+        nav { /*menu de navegação os link*/
+            background-color: rgb(53, 53, 53);
+            padding: 5px; /*preenchimento interno*/
+            box-shadow: 5px 5px 14px 2px rgba(0, 0, 0, 0.548) /*Sombras externas */
+        }
+        nav > a { /*Todo link que estiver dentro de nav */
+            text-decoration: none; /*não tera decoração*/
+            color: white; 
+            font-weight: bold;
+            margin-right: 30px; /*todo o link tera margem a direita deles de 30px*/
+        }
+        nav > a:hover { /*Todo link que estiver dentro de nav quando eu passar o mouse por cima ele ficara*/
+            text-decoration: underline; /*com traçado */
+            color: blueviolet;
+        }
+        main { /*Conteudo principal*/
+            background-color: white;
+            padding: 10px; 
+            margin: 10px;
+            border-radius: 10px 20px 5px 6px; /*raio da borda */
+        }
+        article { /*artigo*/
+            background-color: rgb(204, 201, 201);
+            text-align: justify; /*Texto justificado*/
+        }
+        article > aside { /*Diz filho de artigo o conteudo periferico*/
+            background-color: rgb(100, 90, 77);
+            padding: 1px ; /*preenchimento interno*/
+        }
+        footer { /*Rodapé do site*/
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 4px; /*preenchimento interno*/
+            margin: 0px;
+        }
+        footer > p { /*filho de footer Retirando a margem do paragrafo*/
+            margin: 0px;
+        }
+        div#bola {
+            height: 100px;
+            width: 100px;
+            background-color: white;
+            border-radius: 50%;
+            text-align: center;
+        }
+    </style>
+<body>
+    <!-- header/main/footer= são como div mas são semanticas-->
+    <!--Cabeçalho do site-->
+    <header>
+        <h1>Meu site</h1>
+        <!--menu -->
+        <nav>
+           <a href="#">Link</a> 
+           <a href="#">Link</a>
+           <a href="#">Link</a>
+           <a href="#">Link</a>
+           <a href="#">Link</a>
+        </nav>
+    </header>
+    <div id="bola"></div>
+    <!--Conteudo principal-->
+    <main>
+        <!--seção-->
+        <section id="assuntos">
+            <p>Esporte Política Tecnologia</p>
+        </section>
+        <section id="noticias">
+            <!--artigo-->
+            <article>
+                <h2>Notícia sobre o Brasil</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, minus sequi ad reiciendis alias voluptas tempora fugit, beatae, nisi saepe delectus ipsum eum laborum soluta sint ea quasi a? Labore?</p>
+                <!--Conteudo periferico ao artigo-->
+                <aside>
+                    <p>Artigo escrito por José da Silva</p>
+                </aside>
+            </article>
+            <article>
+
+            </article>
+        </section>
+    </main>
+    <!--Rodapé do site-->
+    <footer>
+        <p>Desenvolvido pelo CursoemVideo</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,17 @@
+@charset "UTF-8"; /*para poder ser compativel com regras de acentuação*/
+
+body {/*corpo do texto*/
+    background-color: rgb(255, 218, 161); /*fundo da pagina*/
+    font-size: Arial; /*fonte da pagina*/
+    font-size: 14px; /*fonte da pagina*/
+}
+h1 { /*paragrafo 2*/
+    color: rgb(59, 9, 9); /*muda a cor da letra*/
+    background-color: darkgoldenrod;/*muda a cor de fundo*/
+}
+h2 { /*paragrafo 1*/
+    color: rgb(26, 133, 175);/*muda a cor da letra*/
+}
+p {
+   text-align: justify; 
+}

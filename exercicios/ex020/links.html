@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        /* SELETORES PERSONALIZADOS
+           #  = id
+           .  = class
+           :  = pseudo-class
+           :: = pseudo-element
+           >  = clildres (filho)
+        */
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a { /*Cor do link*/
+            color: red;
+            text-decoration: none; /* Retira o sublinhado debaixo dos lins*/
+            font-weight: bold; /*Colocar a fonte em negrito*/
+        }
+
+        a:visited { /*Quando ja foi visitado*/
+            color: rgb(255, 127, 249);
+        }
+
+        a:hover { /*Quando passar o mouse por cima */
+            color: black; /*ficara preto*/
+            text-decoration: underline/*Quando passar o mouse por cima ficara sublinhado*/;
+        }
+
+        a:active { /*Cor dele quando foi clicado */
+            color: rgb(253, 253, 103);
+        }
+          /*
+          Apenas nas class="especial"
+          class são representadas com pontos 
+          */
+        .especial {
+            background-color: cadetblue;
+            color: blueviolet;
+        }
+        .especial::before { /*Antes de todos os links */
+            content: ' ✈ ';
+        }
+            /* ::Pseudo elemento*/
+        a::after { /*Depois de todos os links*/
+            content: ' [link]'; /*avisar que é um link*/
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul><!--target="_blank" = abrir em uma nova guia-->
+        <li><a href="https://github.com/AbraaoOlive" target="_blank">Repositório GitHub</a></li>
+        <li><a href="https://www.youtube.com/channel/UCI18acoMBmGdHnDNLiVOdOA" class="especial">Canal do Curso em do YouTube</a></li>
+        <li><a href="https://www.instagram.com/">link Stagram</a></li>
+    </ul>
+    
+</body>
+</html>

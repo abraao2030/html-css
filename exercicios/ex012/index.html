@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+    <H1>Inserindo vídeos hospedados localmente</H1>
+    <p>Este vídeo está hospedado no meu próprio servidor.</p><!--videos que podem ser carregados (.ogv/.mp4/.m4v/.webm)-->
+    <video src="midia/Meu-Video0.mp4" width="300"  controls ></video><!--(width="500") controla o tamanho do vídeo (autoplay controls loop) autoplay correga o video automaticamente /controls loop volta o video para inicio (controls)aparece o controle do vídeo-->
+    <video width="200" poster="imagens/IMG_20231209_153739.jpg" controls><!--(poster=) para carregar a imagem do video /outra forma de abrir vídeo-->
+        <source src="midia/Meu-Video0.mp4" type="video/mp4">
+        <source src="midia/Meu-Video.mkv" type="video/mkv">
+        <source src="midia/Meu-Video0.ogv" type="video/ogv">
+        <source src="midia/Meu-Video2.webm" type="video/webm">
+        <p>Seu navegador não tem compatibilidade com reprodutor de vídeo.</p><!--coloca varios videos para os navegadores que não tem compatibilidade-->
+    </video>
+
+    <h1>Inserindo vídeos do YouTube</h1><!--inserindo vídeos de outro servidor-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N88g_IGGHRg?si=WkjA9kTpFrx5iuj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><!--consumindo dados do YouTube-->
+
+    <h1>Inserindo vídeo do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/166895933?h=ec1ac1bcf8&autoplay=1&color=ffffff&title=0&byline=0&portrait=0" width="560" height="315" frameborder="0"  fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/166895933">OurDesign</a> from <a href="https://vimeo.com/swell">Swell</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    
+</body>   
+</html>

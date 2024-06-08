@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídia em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinámica</h1>
+    <p>Tente abrir esse site em vários dispositivos difetentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+    <picture><!--tag imagem aqui diz que vai aparecer uma imagem-->
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png"><!--se a midia for menor que 750px a foto carregada sera ainda menos (p)-->
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png"><!--O navegador carrega a imagem grande mas se por acaso o navegador estiver menos que 1050px ele carregara a foto de tamanho medio (m)-->
+        <img src="imagens/foto-g.png" alt="Imagem flexível"><!--(ctrl+backspace) para carregar a imagem -->
+    </picture>
+
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reprozir áudios em HTML5</p>
+    <audio src="midia/djery.mp3" controls ></audio>
+    <!--comando para incluir midia (controls)para aparecer o controle de media (autoplay)para ligar automaticamente (MP3-WAV-OGG)tipos de media aceita  -->
+
+    <audio preload="none"  controls><!--(autoplay controls loop)=repete o arquivo quando acabar /outra forma de inserir audio-->
+        <source src="midia/djery2.mp3" type="audio/mp3">
+        <source src="midia/djery2.mp3" type="audio/ogg">
+        <source src="midia/djery2.mp3" type="audio/wav">
+        <!--ele tenta carreagar o 1° arquivo depos o 2° em diante -->
+        <p>Infelismente seu navegador não consegue reproduzir áudio. <a href="midia/djery2.mp3">Clique aqui para baixar o arquivo MP3</a></p><!--se não carregar nada mostra essa mensagem-->
+    </audio>
+        
+</body>
+</html>
