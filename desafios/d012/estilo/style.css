@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+* { /*Comfigurações globais*/
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    min-height: 100vh; /*Tera 100% da tela em branco*/
+    background-color: darkgray;
+}
+
+header {
+    background-color: black; /*Cor de fundo*/
+    color: white; /*Cor da letra*/
+    text-align: center;
+}
+
+header > h1 {
+    padding-top: 50px; /*Margem interna acima*/
+    font-variant: small-caps; /*deixa as letras em maiscula*/
+}
+
+header > p {
+    padding-bottom: 50px; /*Margem interna abaixo*/
+}
+
+header a, footer a {
+    color: white; /*Sera branco*/
+    text-decoration: none; /*Não tera texto decorado*/
+    font-weight: bolder; /*Texto ficara em negrito*/
+}
+
+header a:hover, footer a:hover {
+    text-decoration: underline; /*quando passar o maouse por cima ficara */
+}
+
+section { /*Todas as seções*/
+    padding-top: 10vh; /*Tera uma altura de margem no topo interna de 10% da tela em branco */
+    padding-bottom: 10vh; 
+    line-height: 2em; /*Altura entre as linhas */
+    padding-left: 30px; /*Margem interna na esquerda*/
+
+}
+
+section.normal { /*Toda a classe de seção normal*/
+    background-color: white; /*Cor de fundo */
+    color:rgb(3, 3, 3); 
+}
+
+section.imagem { /*Toda a classe de seção imagem */
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+
+section.imagem > p { /*Toda a seção imagem que tiver um paragrafo dentro */
+    width: 400px; /*Largura maxima*/
+    background-color: rgb(34, 33, 33); /*cor de fundo*/
+    
+}
+
+footer {
+    background-color: black; /*cor de fundo*/
+    color: white; /*Cor da letra*/
+    text-align: center; /*Texto alinhado no centro*/
+    padding: 10px; /*Margem interna*/
+}
