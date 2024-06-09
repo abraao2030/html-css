@@ -3,6 +3,7 @@
 
 Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
+Exercícios
 <a href="https://abraao2030.github.io/html-css/exercicios/ex001/index.html" target="_blank">ex001 [Olá, Mundo]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex002/index.html" target="_blank">ex002 [Parágrafos e quebras de linha]</a><br>
@@ -45,45 +46,45 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor03.html" target="_blank">ex016 '3' [Site de Exemplo]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex017/font01.html" target="_blank">ex017 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex017/font01.html" target="_blank">ex017 '1' [Trabalhando com fontes]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex017/font02.html" target="_blank">ex017 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex017/font02.html" target="_blank">ex017 '2' [Tipos de alinhamentos em texto]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex018/fonte01.html" target="_blank">ex018 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex018/fonte01.html" target="_blank">ex018 '1' [Fontes com Google Fonts]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex018/fonte02.html" target="_blank">ex018 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex018/fonte02.html" target="_blank">ex018 '2' [Fontes Externas]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank">ex019</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank">ex019 [Seletores Personalizados id, class]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex020/hover.html" target="_blank">ex020 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex020/hover.html" target="_blank">ex020 '1' [Exemplo de hover]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex020/links.html" target="_blank">ex020 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex020/links.html" target="_blank">ex020 '2' [Personalizando Links]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">ex020 '3'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">ex020 '3' [Pseudo-classes]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">ex021 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">ex021 '1' [Exemplo de caixa box-level]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank">ex021 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank">ex021 '2' [Grouping Tags Trabalhanso com as tags Semânticas]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank">ex021 '3'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank">ex021 '3' [Borda personalizada]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">ex022 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">ex022 '1' [Teste de Imagem de Fundo]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">ex022 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">ex022 '2' [Personalização dos fundos]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank">ex022 '3'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank">ex022 '3' [Posições dos Fundos]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">ex022 '4'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">ex022 '4' [Posicionamento em %]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">ex022 '5'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">ex022 '5' [Posicionamento Central]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">ex022 '6'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">ex022 '6' [Fundo fixo de tela]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">ex022 '7'</a><br>
-
-
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">ex022 '7'[Alinhamento Vertical]</a><br>
 
 
+
+Desafios
 <a href="https://abraao2030.github.io/html-css/desafios/d001/index001.html">d001</a> <br>
 
 <a href="https://abraao2030.github.io/html-css/desafios/d002/index.html">d002</a> <br>
