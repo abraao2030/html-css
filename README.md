@@ -33,17 +33,17 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex013/index.html" target="_blank">ex013 [Estilos CSS Inline]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex014/index.html" target="_blank">ex014 [Estilos Locais / Internos]</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex014/index.html" target="_blank">ex014 [Estilos CSS Locais / Internos]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex015/index.html" target="_blank">ex015 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex015/index.html" target="_blank">ex015 '1' [Estilos CSS Locais / Externo /links paginas]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex015/pagina02.html" target="_blank">ex015 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex015/pagina02.html" target="_blank">ex015 '2' [Segunda Página]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">ex016 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">ex016 '1' [Cores em CSS]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor02.html" target="_blank">ex016 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor02.html" target="_blank">ex016 '2' [Gradiente em CSS]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor03.html" target="_blank">ex016 '3'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex016/cor03.html" target="_blank">ex016 '3' [Site de Exemplo]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex017/font01.html" target="_blank">ex017 '1'</a><br>
 
