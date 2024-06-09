@@ -7,7 +7,7 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex002/index.html" target="_blank">ex002</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex003/index.html" target="_blank">ex003</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex003/endex.html" target="_blank">ex003</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex004/index.html" target="_blank">ex004</a><br>
 
