@@ -25,7 +25,13 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 <a href="https://abraao2030.github.io/html-css/exercicios/ex019/index.html" target="_blank">ex019</a><br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex020/index.html" target="_blank">ex020</a><br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex021/index.html" target="_blank">ex021</a><br>
-<a href="https://abraao2030.github.io/html-css/exercicios/ex022/index.html" target="_blank">ex022</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">ex022'1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">ex022'2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank">ex022'3'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">ex022'4'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">ex022'5'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">ex022'6'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">ex022'7'</a><br>
 
 
 
