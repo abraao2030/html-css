@@ -23,17 +23,17 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex009/index.html" target="_blank">ex009 [Trabalhando com Listas]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex010/index.html" target="_blank">ex010 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex010/index.html" target="_blank">ex010 '1' [Usando links externos, internos,e dowload]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex010/pag002.html" target="_blank">ex010 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex010/pag002.html" target="_blank">ex010 '2' [Esta é a segunda página do meu site]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex011/index.html" target="_blank">ex011</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex011/index.html" target="_blank">ex011 [Imagem dinámica]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex012/index.html" target="_blank">ex012</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex012/index.html" target="_blank">ex012 [Inserindo vídeos hospedados localmente]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex013/index.html" target="_blank">ex013</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex013/index.html" target="_blank">ex013 [Estilos CSS Inline]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex014/index.html" target="_blank">ex014</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex014/index.html" target="_blank">ex014 [Estilos Locais / Internos]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex015/index.html" target="_blank">ex015 '1'</a><br>
 
