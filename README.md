@@ -3,25 +3,25 @@
 
 Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex001/index.html" target="_blank">ex001</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex001/index.html" target="_blank">ex001 [Olá, Mundo]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex002/index.html" target="_blank">ex002</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex002/index.html" target="_blank">ex002 [Parágrafos e quebras de linha]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex003/endex.html" target="_blank">ex003</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex003/endex.html" target="_blank">ex003 [Testando carga de Imagem]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex004/index.html" target="_blank">ex004</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex004/index.html" target="_blank">ex004 [Olha o favicon aqui em cima]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex006/index.html" target="_blank">ex006</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex006/index.html" target="_blank">ex006 [Ierarquia de Titulos]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex007/html4.html" target="_blank">ex007 '1'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex007/html4.html" target="_blank">ex007 '1' [Meu site HTML4]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex007/html5.html" target="_blank">ex007 '2'</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex007/html5.html" target="_blank">ex007 '2' [Meu site HTML5 Semântica]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex008/index.html" target="_blank">ex008</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex008/index.html" target="_blank">ex008 [Principais formatações]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex008b/index.html" target="_blank">ex008b</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex008b/index.html" target="_blank">ex008b [Outras formatações]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/exercicios/ex009/index.html" target="_blank">ex009</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex009/index.html" target="_blank">ex009 [Trabalhando com Listas]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex010/index.html" target="_blank">ex010 '1'</a><br>
 
