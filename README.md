@@ -4,7 +4,7 @@
 Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
 Exercícios<br>
-<a href="https://abraao2030.github.io/html-css/exercicios/ex001/index.html" target="_blank">ex001 [Olá, Mundo]</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="external">ex001 [Olá, Mundo]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex002/index.html" target="_blank">ex002 [Parágrafos e quebras de linha]</a><br>
 
