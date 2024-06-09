@@ -11,6 +11,7 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 <a href="https://abraao2030.github.io/html-css/exercicios/ex006/index.html" target="_blank">ex006</a><br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex007/index.html" target="_blank">ex007</a><br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex008/index.html" target="_blank">ex008</a><br>
+<a href="https://abraao2030.github.io/html-css/exercicios/ex008b/index.html" target="_blank">ex008b</a><br>
 
 
 
