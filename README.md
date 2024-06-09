@@ -3,7 +3,7 @@
 
 Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 
-Exercícios
+Exercícios<br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex001/index.html" target="_blank">ex001 [Olá, Mundo]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex002/index.html" target="_blank">ex002 [Parágrafos e quebras de linha]</a><br>
@@ -84,31 +84,32 @@ Exercícios
 
 
 
-Desafios
-<a href="https://abraao2030.github.io/html-css/desafios/d001/index001.html">d001</a> <br>
+Desafios<br>
+<a href="https://abraao2030.github.io/html-css/desafios/d001/index001.html">d001 [Desafio das Mensagens]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d002/index.html">d002</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d002/index.html">d002  [Desafio das Imagens]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d003/index.html">d003</a><br>
+<a href="https://abraao2030.github.io/html-css/desafios/d003/index.html">d003 [Desafio do Mapa]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d004/index.html">d004</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d004/index.html">d004 [Meus emojis favoritos]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d005/index.html">d005</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d005/index.html">d005 [Minhas redes sociais]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d006/index.html">d006</a><br>
+<a href="https://abraao2030.github.io/html-css/desafios/d006/index.html">d006 [Tags em HTML]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d007/index.html">d007</a><br>
+<a href="https://abraao2030.github.io/html-css/desafios/d007/index.html">d007 [Imagens Flexível]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d008/index.html">d008 '1'</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d008/index.html">d008 '1' [Desafio da Navegação 1° Pagina]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d008/index02.html">d008 '2'</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d008/index02.html">d008 '2' [Desafio da Navegação 2° Pagina]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d008/index03.html">d008 '3'</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d008/index03.html">d008 '3' [Desafio da Navegação 3° Pagina]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d009/index.html">d009</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d009/index.html">d009 '1'[Vídeos legais para asssistir 4 videos]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d009/index1.html">d009</a> <br>
+<a href="https://abraao2030.github.io/html-css/desafios/d009/index1.html">d009 '2'[1° Pagina Curso de Hardware]</a> <br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d010/android.html">d010</a><br>
+<a href="https://abraao2030.github.io/html-css/desafios/d010/android.html">d010 [Site do Android "Variaveis globais em CSS"]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d012/index.html">d012</a><br>
+<a href="https://abraao2030.github.io/html-css/desafios/d012/index.html">d012 [Site Cordel Moderno
+Por Milton Duarte]</a><br>
