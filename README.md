@@ -18,22 +18,45 @@ Clicando nos links acesse os desafio "dxxx" e os exercícios "exxxx".
 <a href="https://abraao2030.github.io/html-css/exercicios/ex012/index.html" target="_blank">ex012</a><br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex013/index.html" target="_blank">ex013</a><br>
 <a href="https://abraao2030.github.io/html-css/exercicios/ex014/index.html" target="_blank">ex014</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex015/index.html" target="_blank">ex015</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex016/index.html" target="_blank">ex016</a><br>
-<a href="https://abraao2030.github.io/html-css/exercicios/ex017/index.html" target="_blank">ex017</a><br>
-<a href="https://abraao2030.github.io/html-css/exercicios/ex018/index.html" target="_blank">ex018</a><br>
-<a href="https://abraao2030.github.io/html-css/exercicios/ex019/index.html" target="_blank">ex019</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex017/fonte01.html" target="_blank">ex017 '1'</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex017/fonte02.html" target="_blank">ex017 '2'</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex018/font01.html" target="_blank">ex018 '1'</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex018/fonte02.html" target="_blank">ex018 '2'</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank">ex019</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex020/hover.html" target="_blank">ex020 '1'</a><br>
-<a href="https://abraao2030.github.io/html-css/exercicios/ex020/links.html" target="_blank">ex020 '2'</a><br><a href="https://abraao2030.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">ex020 '3'</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex020/links.html" target="_blank">ex020 '2'</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">ex020 '3'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">ex021 '1'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank">ex021 '2'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank">ex021 '3'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">ex022 '1'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">ex022 '2'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank">ex022 '3'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">ex022 '4'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">ex022 '5'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">ex022 '6'</a><br>
+
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">ex022 '7'</a><br>
 
 
