@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Parte 1</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            border-collapse: separate;
+            width: 300px;
+        }
+        td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <table> <!--Tabela-->
+        <tr> <!-- Linha 1-->
+            <td>1</td> <!--celula coluna 1-->
+            <td>2</td> <!--celula coluna 2-->
+            <td rowspan="2">3</td> <!--celula coluna 3-->
+            <td>4</td> <!--celula coluna 4-->
+        </tr>
+        <tr> <!-- Linha 2-->
+            <td>5</td> <!--celula coluna 1-->
+            <td>6</td> <!--celula coluna 2-->
+                       <!--celula coluna 3-->
+            <td>7</td> <!--celula coluna 4-->
+        </tr>
+        <tr> <!-- Linha 3-->
+            <td colspan="3">8</td> <!--celula coluna 1-->
+                       <!--celula coluna 2-->
+                       <!--celula coluna 3-->
+            <td>9</td> <!--celula coluna 4-->
+        </tr>
+        <tr> <!-- Linha 4-->
+            <td rowspan="2">10</td> <!--celula coluna 1-->
+            <td colspan="2">11</td> <!--celula coluna 2-->
+                        <!--celula coluna 3-->
+            <td>12</td> <!--celula coluna 4-->
+        </tr>
+        <tr> <!-- Linha 5-->
+                       <!--celula coluna 1-->
+            <td>13</td> <!--celula coluna 2-->
+            <td>14</td> <!--celula coluna 3-->
+            <td>15</td> <!--celula coluna 4-->
+        </tr>
+        
+    </table>
+    
+</body>
+</html>
