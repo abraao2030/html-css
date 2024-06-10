@@ -19,6 +19,13 @@
             padding: 10px; /*Margem interna*/
         }
 
+        caption {
+            font-size: 1.5em; /*Tamanho da fonte*/
+            font-weight: bold; /*Peso da fonte*/
+            padding: 10px; /*Margem interna*/
+            background-color: lightgray;
+        }
+
         thead, tfoot { /*O cabeçalho e o rodapé terá*/
             background-color: gray; /*cor de fundo*/
             color: white; /*cor da letra*/
@@ -34,6 +41,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES 
         TABLE (tabela)
+        CAPTION (legenda)
             THEAD (cabeça)
                 TR, TD, TH
             TBODY (corpo)
@@ -43,10 +51,13 @@
     -->
 
     <table>
+        <caption>
+            População das Unidades Federativas
+        </caption>
         <thead> <!--Cabeça-->
             <tr> <!--Table row = linhas de tabela-->
-                <th>Estado</th> <!--Table Heaser = cabeçalho da tabela-->
-                <th>População</th>
+                <th scope="col">Estado</th> <!--Table Heaser = cabeçalho da tabela-->
+                <th scope="col" style="width: 50px;">População</th>
             </tr>
         </thead>
         <tbody> <!--Corpo-->
@@ -163,7 +174,7 @@
         </tbody>
         <tfoot> <!--Rodapé-->
             <tr>
-                <th>Total de Habitantes</th> <!--cabeçalho-->
+                <th scope="row">Total de Habitantes</th> <!--cabeçalho-->
                 <td class="num"><strong>203 062 512</strong></td> <!--celula-->
             </tr>
         </tfoot>
