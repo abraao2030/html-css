@@ -9,23 +9,24 @@
             font-family: Arial, Helvetica, sans-serif;
         }
 
-        tr.linha { /*Todas as linhas da classe linhas ficaram desta cor */
-            background-image: linear-gradient(45deg, rgba(255, 0, 0, 0.548), rgba(0, 0, 255, 0.548) );
-        }
-
         table { /*Parte de fora da tabela*/
-             width: 400px; /*Parte de fora da tabela*/
+             width: 400px; /*largura da tabela*/
+             height: 400px; /*Altura da tabela*/
              border-collapse: collapse; /*Borda entre as celulas ficam coladas */
         }
 
         td { /*Celulas */
             border: 1px solid black;
             padding: 8px; /*Espaçamento interno */
+            text-align: left; /*Alinhamento horizontal da tabela*/
+            /*middle= meio */
+            vertical-align: top; /*Alinhamento na vertical */
         }
-
-        td.dado { /*Toda as celulas com classe dados ficaram desta cor*/
-            background-color: chartreuse;
+        
+        .numero { /*Toda as classe numero tera */
+            text-align: right; /*Texto a direita */
         }
+       
     </style>
 </head>
 <body>
@@ -40,17 +41,17 @@
     <!--Delimita a tabela-->
     <table>
         <tr> <!-- Primeira linha-->
-            <td>A1</td>
+            <td class="numero">A1</td>
             <td>B1</td>
             <td>C1</td> <!--Coloca como opcional o fechamento  (</td>)-->
         </tr>
-        <tr class="linha">
+        <tr>
             <td>A2</td>
-            <td>B2</td>
+            <td class="numero">B2</td>
             <td>C2</td>
         </tr>
         <tr> 
-            <td class="dado">A3</td>
+            <td>A3</td>
             <td>B3</td>
             <td>C3</td>
         </tr>
