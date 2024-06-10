@@ -12,6 +12,7 @@
         table { /*A tabela*/
             width: 500px; /*largura*/
             border-collapse: collapse; /*borda colada*/
+            position: relative; /*Posição da tabela*/
         }
 
         td, th { /*Toda a linha e celula*/
@@ -30,7 +31,29 @@
             background-color: gray; /*cor de fundo*/
             color: white; /*cor da letra*/
         }
-         td.num { /*Toda a clsse num*/
+
+        thead > tr > th { /*O cabeçalho que esta dentro da linha e da tabela */
+            position: sticky; /*colada / grudada*/
+            top: -1px; /*No topo*/
+            background-color: gray;
+
+        }
+
+        /*tbody > tr:nth-child(2n) { /*Toda a linha que for filha do corpo vai receber de 2 em 2*/
+            /*background-color: darkgray;
+            color: white;*/
+        
+        tbody > tr:nth-child(odd) { /*Toda linha impar*/
+            background-color: white;
+            font-weight: bold;
+        }
+
+        tbody > tr:nth-child(even) { /*Toda a linha par*/
+            background-color: lightgray;
+            text-decoration: underline;
+        }
+
+        td.num { /*Toda a clsse num*/
             text-align: right; /*Texto a direita*/
          }
 
@@ -179,5 +202,12 @@
             </tr>
         </tfoot>
     </table>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nulla atque expedita architecto accusantium optio cupiditate adipisci assumenda dolorum saepe quod eius quasi vero, ea quas nesciunt repellat dicta beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit possimus, beatae fuga quasi corporis veniam neque sit placeat perferendis labore numquam dolore dolorum provident est modi reprehenderit, cum quia repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laborum temporibus iusto totam, recusandae veniam eius inventore atque nihil eaque. Veritatis corrupti, obcaecati repudiandae consequuntur at distinctio dolorem repellendus illum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae id sed, pariatur, eligendi quos sunt dignissimos quisquam ipsam quam natus eius ullam iure accusamus consequuntur aperiam eos obcaecati incidunt distinctio!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nulla atque expedita architecto accusantium optio cupiditate adipisci assumenda dolorum saepe quod eius quasi vero, ea quas nesciunt repellat dicta beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit possimus, beatae fuga quasi corporis veniam neque sit placeat perferendis labore numquam dolore dolorum provident est modi reprehenderit, cum quia repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laborum temporibus iusto totam, recusandae veniam eius inventore atque nihil eaque. Veritatis corrupti, obcaecati repudiandae consequuntur at distinctio dolorem repellendus illum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae id sed, pariatur, eligendi quos sunt dignissimos quisquam ipsam quam natus eius ullam iure accusamus consequuntur aperiam eos obcaecati incidunt distinctio!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nulla atque expedita architecto accusantium optio cupiditate adipisci assumenda dolorum saepe quod eius quasi vero, ea quas nesciunt repellat dicta beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit possimus, beatae fuga quasi corporis veniam neque sit placeat perferendis labore numquam dolore dolorum provident est modi reprehenderit, cum quia repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laborum temporibus iusto totam, recusandae veniam eius inventore atque nihil eaque. Veritatis corrupti, obcaecati repudiandae consequuntur at distinctio dolorem repellendus illum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae id sed, pariatur, eligendi quos sunt dignissimos quisquam ipsam quam natus eius ullam iure accusamus consequuntur aperiam eos obcaecati incidunt distinctio!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nulla atque expedita architecto accusantium optio cupiditate adipisci assumenda dolorum saepe quod eius quasi vero, ea quas nesciunt repellat dicta beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit possimus, beatae fuga quasi corporis veniam neque sit placeat perferendis labore numquam dolore dolorum provident est modi reprehenderit, cum quia repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laborum temporibus iusto totam, recusandae veniam eius inventore atque nihil eaque. Veritatis corrupti, obcaecati repudiandae consequuntur at distinctio dolorem repellendus illum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae id sed, pariatur, eligendi quos sunt dignissimos quisquam ipsam quam natus eius ullam iure accusamus consequuntur aperiam eos obcaecati incidunt distinctio!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nulla atque expedita architecto accusantium optio cupiditate adipisci assumenda dolorum saepe quod eius quasi vero, ea quas nesciunt repellat dicta beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit possimus, beatae fuga quasi corporis veniam neque sit placeat perferendis labore numquam dolore dolorum provident est modi reprehenderit, cum quia repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laborum temporibus iusto totam, recusandae veniam eius inventore atque nihil eaque. Veritatis corrupti, obcaecati repudiandae consequuntur at distinctio dolorem repellendus illum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae id sed, pariatur, eligendi quos sunt dignissimos quisquam ipsam quam natus eius ullam iure accusamus consequuntur aperiam eos obcaecati incidunt distinctio!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nulla atque expedita architecto accusantium optio cupiditate adipisci assumenda dolorum saepe quod eius quasi vero, ea quas nesciunt repellat dicta beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit possimus, beatae fuga quasi corporis veniam neque sit placeat perferendis labore numquam dolore dolorum provident est modi reprehenderit, cum quia repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laborum temporibus iusto totam, recusandae veniam eius inventore atque nihil eaque. Veritatis corrupti, obcaecati repudiandae consequuntur at distinctio dolorem repellendus illum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae id sed, pariatur, eligendi quos sunt dignissimos quisquam ipsam quam natus eius ullam iure accusamus consequuntur aperiam eos obcaecati incidunt distinctio!</p>
+    
 </body>
 </html>
