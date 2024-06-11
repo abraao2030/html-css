@@ -3,9 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Exercícios de Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            width: 500px; /*Largura */
+            border-collapse: collapse; /*Borda colada*/
+        }
+
+        caption { /*Descrição da tabela*/
+            font-size: 1.3em; /*Tamanho da fonte*/
+            font-weight: bold; /*Peso da fonte*/
+            padding: 8px; /*Margem intena*/
+        }
+
+        th, td { 
+            border: 1px double green;
+            padding: 8px;
+        }
+
+        .cnome {
+            background-color: rgba(51, 33, 68, 0.514);
+        }
+
+        .csexo {
+            background-image: linear-gradient(to left, rgba(255, 0, 170, 0.493), rgba(0, 0, 255, 0.555));
+        }
+
+        .cidade {
+            background-color: rgba(144, 235, 247, 0.342);
+        }
+    </style>
 </head>
 <body>
+    <h1>Exercícios de Tabela</h1>
+
+    <table><!--Tabela-->
+        <colgroup> <!--Criando grupos para cada coluna-->
+            <col class="cnome"> <!--Coluna 1-->
+            <col class="csexo"> <!--Coluna 2-->
+            <col class="cidade" span="2"> <!--Coluna 3-->
+                                 <!--Coluna 4-->
+        </colgroup>
+
+        <caption> <!--Descrição-->
+            Cadastro
+        </caption>
+        <tr><!--1°Linha-->
+            <th scope="col">Nome</th> <!--Cabeçalho-->
+            <th scope="col">Sexo</th>
+            <th scope="col">Idade</th>
+            <th scope="col">Profissão</th>
+        </tr>
+        <tr>
+            <td>Ana Maria</td><!--Conteudo-->
+            <td>F</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+        <tr>
+            <td>Claudio</td><!--Conteudo-->
+            <td>M</td>
+            <td>28</td>
+            <td>Programador</td>
+        </tr>
+        <tr>
+            <td>Gustavo</td><!--Conteudo-->
+            <td>M</td>
+            <td>42</td>
+            <td>Professor</td>
+        </tr><tr>
+            <td>Hélio</td><!--Conteudo-->
+            <td>M</td>
+            <td>19</td>
+            <td>Vendedor</td>
+        </tr><tr>
+            <td>Maria</td><!--Conteudo-->
+            <td>F</td>
+            <td>39</td>
+            <td>Médica</td>
+        </tr><tr>
+            <td>Otávio</td><!--Conteudo-->
+            <td>M</td>
+            <td>22</td>
+            <td>Nutricionista</td>
+        </tr>
+
+    </table>
     
 </body>
 </html>
