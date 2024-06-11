@@ -92,6 +92,8 @@ Exercícios<br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela005.html" target="_blank">ex023 '5'[Agrupando Colunas com colgroup]</a><br>
 
+<a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela006.html" target="_blank">ex023 '6'[Agrupando Colunas com colgroup]</a><br>
+
 
 
 Desafios<br>
