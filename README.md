@@ -82,6 +82,16 @@ Exercícios<br>
 
 <a href="https://abraao2030.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">ex022 '7'[Alinhamento Vertical]</a><br>
 
+<a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela001.html" target="_blank">ex023 '1'[HIERARQUIA DE TABELA]</a><br> 
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela002.html" target="_blank">ex023 '2'[ANATOMIA PARA TABELAS GRANDES ]</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela003.html" target="_blank">ex023 '3'[Mesclagem de Células]</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela004.html" target="_blank">ex023 '4'[Exercício de Tabela]</a><br>
+
+<a href="https://abraao2030.github.io/html-css/exercicios/ex023/tabela005.html" target="_blank">ex023 '5'[Agrupando Colunas com colgroup]</a><br>
+
 
 
 Desafios<br>
