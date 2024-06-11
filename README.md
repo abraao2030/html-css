@@ -126,6 +126,6 @@ Por Milton Duarte]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/desafios/d013/desafio-13-01.html">d013 '01' [Tabela 1 ]</a><br>
 
-<a href="https://abraao2030.github.io/html-css/desafios/d013/desafio-13-01.html">d013 '02' [Tabela 2 ]</a><br>
+<a href="https://abraao2030.github.io/html-css/desafios/d013/desafio-13-02.html">d013 '02' [Tabela 2 ]</a><br>
 
 <a href="https://abraao2030.github.io/html-css/desafios/d014/index.html">d014 [Tabela Escolar]</a><br>
