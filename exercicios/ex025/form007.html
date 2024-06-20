@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <!--Preenchimento de formulário (get)aceita até 3 mil bytes mostra os dados na url (post) não mostra os dados na url-->
+    <form action="cadastro.php" method="get" autocomplete="on">
+        <p>
+            <label for="iest">Estado</label><!--(label)Elemento-->
+            <select name="Estado" id="iest">
+                <!--Cria as opções de estados-->
+                <option value="" selected>--- Escolha ---</option>
+                <optgroup label="Região Sudeste">
+                    <option value="MG">Minas Gerais</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="SP">São Paulo</option><!--(selected)Ja vem selecionado-->
+                </optgroup>
+                <!--Cria um grupo-->
+                <optgroup label="Região Norte"><!--(label)Atributo-->
+                    <option value="MA">Maranhão</option>
+                    <option value="PE">Pernabuco</option>
+                    <option value="RN">Rio Grande do Norte</option>
+                </optgroup>
+            </select>
+        </p>
+        <p>
+            <!--Botão tipo caixa de texto-->
+            <label for="iprof">Profissão</label>
+            <input type="text" name="prof" id="iprof" list="lstprof">
+            <!--Cria uma datalist colocar-lhe um id | no botão de texto colocar (list="lstprof")para chamar as opções-->
+            <datalist id="lstprof">
+                <option>Administrador</option>
+                <option>Contador</option><!--Retira o (value="")-->
+                <option>Desenvolvedor</option>
+                <option>Professor</option>
+            </datalist>
+        </p>
+        <!--Botão para criar caixa de mensagem-->
+        <label for="imsg">Mensagem</label><br>
+        <textarea name="msg" id="" cols="30" rows="10"></textarea>
+
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+    
+</body>
+</html>
