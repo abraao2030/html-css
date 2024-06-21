@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <!--Preenchimento de formulário (get)aceita até 3 mil bytes mostra os dados na url (post) não mostra os dados na url-->
+    <form action="cadastro.php" method="get">
+        <!--Botão do tipo arrasta-->
+        <p>
+            <label for="inum">Número:</label>
+            <input type="range" name="num" id="inum" value="5" oninput="ival.innerHTML = Number(inum.value) + Number(inum.value)">
+            <!--comando em html para mostrar o valor (oninput="isoma.innerHTML = Number(in1.value) + Number(in2.value)")-->
+            <output id="ival">5</output>
+            <!--Saida de um valor-->
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+</html>
